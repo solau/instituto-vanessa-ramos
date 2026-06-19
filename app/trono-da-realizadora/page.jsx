@@ -49,10 +49,10 @@ export default function TronoDaRealizadora() {
                  className="premium-border" 
                  width={600} 
                  height={800} 
-                 style={{ width: '100%', height: 'auto' }} 
                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
-                 quality={80}
+                 quality={60}
                  priority 
+                 fetchPriority="high"
                />
             </div>
             <div className="solution-text animate-fade-in-up delay-2">
