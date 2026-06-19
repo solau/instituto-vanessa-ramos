@@ -16,7 +16,7 @@ export default function Home() {
             </a>
           </div>
           <div className="hero-image animate-fade-in-up delay-2">
-            <Image src="/vanessa.png" alt="Vanessa Ramos" width={600} height={800} style={{ width: '100%', height: 'auto' }} priority />
+            <Image src="/vanessa-1.jpg" alt="Vanessa Ramos" width={600} height={800} style={{ width: '100%', height: 'auto' }} priority />
           </div>
         </div>
       </section>

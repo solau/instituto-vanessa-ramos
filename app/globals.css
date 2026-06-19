@@ -12,13 +12,14 @@
   padding: 0;
 }
 
-body {
+html, body {
   background-color: var(--rich-black);
   color: var(--off-white);
   font-family: var(--font-sans);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
+  max-width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
