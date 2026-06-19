@@ -44,7 +44,7 @@ export default function TronoDaRealizadora() {
           <div className="grid-2-cols">
             <div className="solution-image animate-fade-in-up delay-1">
                <Image 
-                 src="/vanessa-1.jpg" 
+                 src="/vanessa-2.jpg" 
                  alt="Vanessa Ramos" 
                  className="premium-border" 
                  width={600} 

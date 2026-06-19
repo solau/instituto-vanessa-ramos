@@ -17,7 +17,7 @@ export default function Home() {
           </div>
           <div className="hero-image animate-fade-in-up delay-2">
             <Image 
-              src="/vanessa-2.jpg" 
+              src="/vanessa-1.jpg" 
               alt="Vanessa Ramos" 
               width={600} 
               height={800} 
