@@ -19,6 +19,7 @@ export default function Home() {
             <Image 
               src="/vanessa-1.jpg" 
               alt="Vanessa Ramos" 
+              className="premium-border"
               width={600} 
               height={800} 
               style={{ width: '100%', height: 'auto' }} 
