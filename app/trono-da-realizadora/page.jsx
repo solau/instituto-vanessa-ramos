@@ -18,21 +18,21 @@ export default function TronoDaRealizadora() {
           
           <div style={{ marginBottom: '2rem' }}>
             <h1 className="gold-text" style={{ margin: 0 }}>
-              Você conquistou o topo.<br/>Mas a que custo?
+              A transição da escassez para a<br/>soberania profissional.
             </h1>
           </div>
           
           <p className="subtitle" style={{ marginBottom: '1rem' }}>
-            Muitas executivas de sucesso vivem uma realidade oculta: a exaustão silenciosa de ter que provar o seu valor duas vezes mais.
+            Muitas executivas vivem a armadilha da comparação profissional e a exaustão silenciosa de tentar provar o seu valor duas vezes mais.
           </p>
           
           <p className="subtitle" style={{ marginBottom: '3rem' }}>
-            A síndrome do impostor e o sacrifício da própria identidade em nome da carreira não podem mais ser a sua sentença.
+            A síndrome da impostora no trabalho e o medo de se expor não podem mais ser a sua sentença. Aprenda a encontrar a sua voz autêntica.
           </p>
           
           <div style={{ borderTop: '1px solid rgba(212,175,55,0.3)', borderBottom: '1px solid rgba(212,175,55,0.3)', padding: '2rem', maxWidth: '800px', margin: '0 auto', backgroundColor: 'rgba(212,175,55,0.02)' }}>
             <p className="highlight-text" style={{ margin: 0, fontStyle: 'italic', fontSize: '1.5rem', color: 'var(--off-white)' }}>
-              "Está na hora de liderar não pelo esforço excessivo, mas pelo seu poder natural."
+              "Está na hora de curar o sentimento de não ser boa o suficiente e liderar pelo seu poder natural."
             </p>
           </div>
         </div>
@@ -115,8 +115,27 @@ export default function TronoDaRealizadora() {
         </div>
       </section>
 
-      {/* 4. Prova Social e Escassez */}
-      <section className="sales-scarcity">
+      {/* 4. Casos Reais (SEO / Prova) */}
+      <section className="sales-testimonials" style={{ padding: '6rem 0', backgroundColor: '#020202', borderTop: '1px solid rgba(212,175,55,0.1)', borderBottom: '1px solid rgba(212,175,55,0.1)' }}>
+        <div className="container text-center animate-fade-in-up">
+          <h2 className="gold-text" style={{ marginBottom: '3rem' }}>Mulheres que assumiram a sua Autoridade</h2>
+          <div className="benefits-grid" style={{ gap: '2rem' }}>
+            <div className="benefit-card" style={{ textAlign: 'left', background: 'rgba(255,255,255,0.02)' }}>
+              <p style={{ fontStyle: 'italic', color: '#ccc', marginBottom: '1.5rem' }}>"Eu finalmente superei o medo do julgamento e construí minha autoridade sem me sentir uma fraude."</p>
+              <h4 style={{ color: 'var(--brushed-gold)' }}>[Nome da Cliente 1]</h4>
+              <span style={{ fontSize: '0.9rem', color: '#888' }}>[Cargo da Cliente 1]</span>
+            </div>
+            <div className="benefit-card" style={{ textAlign: 'left', background: 'rgba(255,255,255,0.02)' }}>
+              <p style={{ fontStyle: 'italic', color: '#ccc', marginBottom: '1.5rem' }}>"Parei de olhar para a grama do vizinho. Encontrei minha voz autêntica e saí da invisibilidade no mercado."</p>
+              <h4 style={{ color: 'var(--brushed-gold)' }}>[Nome da Cliente 2]</h4>
+              <span style={{ fontSize: '0.9rem', color: '#888' }}>[Cargo da Cliente 2]</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 5. Prova Social e Escassez */}
+      <section className="sales-scarcity" style={{ padding: '6rem 0' }}>
         <div className="container text-center animate-fade-in-up">
           <h2>Um ambiente reservado para a <span className="gold-text">Elite</span>.</h2>
           <p className="scarcity-text">

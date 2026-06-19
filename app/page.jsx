@@ -9,7 +9,7 @@ export default function Home() {
           <div className="hero-text animate-fade-in-up delay-1">
             <h1><span className="gold-text">Soberania e Liderança</span> Feminina</h1>
             <p>
-              Vanessa Ramos &mdash; Especialista em transformação de mentalidade e estratégia de carreira de alto padrão para líderes e executivas.
+              Vanessa Ramos &mdash; Descubra como vencer o medo de se expor, curar a síndrome da impostora e construir autoridade sem se sentir uma fraude. Saia da invisibilidade e ocupe o seu lugar de direito.
             </p>
             <a href="https://wa.me/55759921236604?text=Ol%C3%A1%21%20Gostaria%20de%20saber%20mais%20sobre%20as%20mentorias%20para%20despertar%20minha%20lideran%C3%A7a.%20Vim%20pelo%20bot%C3%A3o%20principal%20do%20site." target="_blank" rel="noopener noreferrer" className="btn-primary">
               Desperte sua Liderança
@@ -51,15 +51,15 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 2. Sobre Vanessa Ramos (Movido para cá) */}
+      {/* 2. A Dor de Identidade e Segurança */}
       <section className="about-section" style={{ textAlign: 'center', padding: '6rem 0' }}>
         <div className="container animate-fade-in-up">
-          <h2 className="gold-text" style={{ marginBottom: '0.5rem' }}>A Bússola do Desenvolvimento Feminino</h2>
-          <h3 className="about-name" style={{ fontSize: '3.5rem', marginBottom: '3rem' }}>Vanessa Ramos</h3>
+          <h2 className="gold-text" style={{ marginBottom: '0.5rem', fontSize: '2.5rem' }}>O peso de ser a profissional excelente que se sente uma fraude</h2>
+          <h3 className="about-name" style={{ fontSize: '2.5rem', marginBottom: '3rem', color: '#bbb', fontFamily: 'var(--font-sans)', fontWeight: '300' }}>Você confia na sua capacidade?</h3>
           
           <div className="quote-block" style={{ borderLeft: 'none', borderTop: '2px solid var(--brushed-gold)', borderBottom: '2px solid var(--brushed-gold)', padding: '2.5rem 2rem', margin: '0 auto 3rem', maxWidth: '800px', backgroundColor: 'rgba(212, 175, 55, 0.02)' }}>
-            <p style={{ margin: 0, fontSize: '1.8rem', lineHeight: '1.4' }}>
-              "Com uma trajetória pautada pela excelência e sustentada por uma base inegociável de fé e resiliência."
+            <p style={{ margin: 0, fontSize: '1.6rem', lineHeight: '1.4' }}>
+              "Muitas líderes paralisam pelo sentimento de não ser boa o suficiente, sabotando carreiras brilhantes pelo medo do julgamento."
             </p>
           </div>
 
@@ -67,13 +67,13 @@ export default function Home() {
             <div className="interactive-card">
               <span className="card-icon">✧</span>
               <p>
-                Sua atuação vai muito além da mentoria: é um suporte contínuo focado no <strong>encorajamento estratégico</strong> de mulheres de elite.
+                A <strong>síndrome da impostora no trabalho</strong> faz com que você diminua suas próprias conquistas. Te ajudamos a curar essa identidade.
               </p>
             </div>
             <div className="interactive-card">
               <span className="card-icon">✦</span>
               <p>
-                Seu legado é forjado através do <strong>impacto real</strong> e da <strong>transformação profunda</strong>, guiando líderes a reassumirem suas posições de direito.
+                Aprenda a <strong>construir autoridade sem se sentir uma fraude</strong>. Reassuma sua posição de direito e deixe a invisibilidade para trás.
               </p>
             </div>
           </div>
@@ -89,32 +89,32 @@ export default function Home() {
             <div className="topic-item">
               <span className="topic-icon">◆</span>
               <div>
-                <strong>O domínio antecede a tática:</strong>
-                <p>A verdadeira liderança nasce da segurança inabalável, não apenas de estratégias técnicas.</p>
+                <strong>A armadilha da comparação profissional:</strong>
+                <p>Descubra como parar de se comparar nas redes sociais e encontrar sua voz autêntica, parando de olhar para a grama do vizinho e focando na sua essência.</p>
               </div>
             </div>
             
             <div className="topic-item">
               <span className="topic-icon">◆</span>
               <div>
-                <strong>Resgate da Autoconfiança:</strong>
-                <p>Ajudamos mulheres a curarem sua identidade e estabelecerem clareza de seus limites inegociáveis.</p>
+                <strong>Saindo da invisibilidade:</strong>
+                <p>O domínio antecede a tática. Aprenda como superar o medo do julgamento e se expor com confiança, curando a insegurança profissional.</p>
               </div>
             </div>
             
             <div className="topic-item">
               <span className="topic-icon">◆</span>
               <div>
-                <strong>Trabalho na Raiz:</strong>
-                <p>Nosso encorajamento profundo constrói o caminho para alcançar o mais alto nível de reconhecimento.</p>
+                <strong>Trabalho demais e não vejo resultados:</strong>
+                <p>Transição da escassez para a soberania profissional. Entenda por que o esforço excessivo gera a exaustão feminina e falta de tempo para si.</p>
               </div>
             </div>
             
             <div className="topic-item">
               <span className="topic-icon">◆</span>
               <div>
-                <strong>Soberania e Família:</strong>
-                <p>Acreditamos que o ápice da liderança feminina não exige o sacrifício do lar. É possível dominar sua carreira e liderar com excelência sem nunca deixar a sua família de lado.</p>
+                <strong>Soberania de Tempo:</strong>
+                <p>Aprenda como ser uma profissional reconhecida e equilibrar carreira e família sem abrir mão de nada que é inegociável para você.</p>
               </div>
             </div>
           </div>
@@ -148,7 +148,35 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 5. Footer Institucional */}
+      {/* 5. Manifesto / Artigos */}
+      <section className="manifesto-section" style={{ padding: '6rem 0', backgroundColor: '#020202', borderTop: '1px solid rgba(212, 175, 55, 0.1)' }}>
+        <div className="container">
+          <h2 className="gold-text animate-fade-in-up" style={{ textAlign: 'center', marginBottom: '3rem' }}>O Manifesto / Artigos Recentes</h2>
+          <div className="about-interactive-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))' }}>
+            
+            <div className="interactive-card animate-fade-in-up delay-1">
+              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Por que me sinto insegura profissionalmente?</h4>
+              <p style={{ fontSize: '1rem', color: '#888' }}>Como vencer o ciclo da dúvida e parar de sentir que você não é boa o suficiente no seu trabalho...</p>
+              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
+            </div>
+
+            <div className="interactive-card animate-fade-in-up delay-2">
+              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Como parar de se comparar nas redes sociais?</h4>
+              <p style={{ fontSize: '1rem', color: '#888' }}>O peso de olhar para a grama do vizinho. Encontre a sua voz autêntica e saia da armadilha da comparação profissional...</p>
+              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
+            </div>
+
+            <div className="interactive-card animate-fade-in-up delay-3">
+              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Trabalho demais e não vejo resultados</h4>
+              <p style={{ fontSize: '1rem', color: '#888' }}>Entenda como equilibrar carreira e família sem abrir mão de nada, curando a exaustão feminina e o sacrifício pessoal...</p>
+              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      {/* 6. Footer Institucional */}
       <footer>
         <div className="container" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', paddingBottom: '3rem' }}>
           

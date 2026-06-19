@@ -17,8 +17,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata = {
-  title: 'Instituto Vanessa Ramos | Liderança & Soberania Feminina',
-  description: 'Especialista em transformação de mentalidade e estratégia de carreira de alto padrão para mulheres de elite.',
+  title: 'Vanessa Ramos | Mentoria para Mulheres que Decidiram Ocupar seu Trono',
+  description: 'Descubra como vencer o medo de se expor, construir autoridade sem se sentir uma fraude e curar a síndrome da impostora no trabalho. Ocupe o seu lugar de direito.',
 };
 
 export default function RootLayout({ children }) {
