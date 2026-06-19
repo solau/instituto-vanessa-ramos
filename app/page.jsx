@@ -6,7 +6,7 @@ export default function Home() {
       {/* 1. Hero Section */}
       <section className="hero-section">
         <div className="container hero-container">
-          <div className="hero-text animate-fade-in-up delay-1">
+          <div className="hero-text">
             <h1><span className="gold-text">Soberania e Liderança</span> Feminina</h1>
             <p>
               Vanessa Ramos &mdash; Descubra como vencer o medo de se expor, curar a síndrome da impostora e construir autoridade sem se sentir uma fraude. Saia da invisibilidade e ocupe o seu lugar de direito.
@@ -15,7 +15,7 @@ export default function Home() {
               Desperte sua Liderança
             </a>
           </div>
-          <div className="hero-image animate-fade-in-up delay-2">
+          <div className="hero-image">
             <Image 
               src="/vanessa-1.jpg" 
               alt="Vanessa Ramos" 
