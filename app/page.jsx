@@ -148,35 +148,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 5. Manifesto / Artigos */}
-      <section className="manifesto-section" style={{ padding: '6rem 0', backgroundColor: '#020202', borderTop: '1px solid rgba(212, 175, 55, 0.1)' }}>
-        <div className="container">
-          <h2 className="gold-text animate-fade-in-up" style={{ textAlign: 'center', marginBottom: '3rem' }}>O Manifesto / Artigos Recentes</h2>
-          <div className="about-interactive-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))' }}>
-            
-            <div className="interactive-card animate-fade-in-up delay-1">
-              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Por que me sinto insegura profissionalmente?</h4>
-              <p style={{ fontSize: '1rem', color: '#888' }}>Como vencer o ciclo da dúvida e parar de sentir que você não é boa o suficiente no seu trabalho...</p>
-              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
-            </div>
-
-            <div className="interactive-card animate-fade-in-up delay-2">
-              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Como parar de se comparar nas redes sociais?</h4>
-              <p style={{ fontSize: '1rem', color: '#888' }}>O peso de olhar para a grama do vizinho. Encontre a sua voz autêntica e saia da armadilha da comparação profissional...</p>
-              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
-            </div>
-
-            <div className="interactive-card animate-fade-in-up delay-3">
-              <h4 style={{ color: 'var(--off-white)', marginBottom: '1rem', fontSize: '1.2rem' }}>Trabalho demais e não vejo resultados</h4>
-              <p style={{ fontSize: '1rem', color: '#888' }}>Entenda como equilibrar carreira e família sem abrir mão de nada, curando a exaustão feminina e o sacrifício pessoal...</p>
-              <a href="#" style={{ color: 'var(--brushed-gold)', marginTop: '1rem', display: 'inline-block', fontSize: '0.9rem', textTransform: 'uppercase' }}>Ler Manifesto →</a>
-            </div>
-
-          </div>
-        </div>
-      </section>
-
-      {/* 6. Footer Institucional */}
+      {/* 5. Footer Institucional */}
       <footer>
         <div className="container" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem', paddingBottom: '3rem' }}>
           
