@@ -133,7 +133,7 @@ export default function TronoDaRealizadora() {
             O lançamento oficial acontecerá em Agosto. A única forma de receber as informações privilegiadas, entender os critérios de seleção e ter a chance de garantir sua vaga é entrando para o nosso <strong>Grupo VIP de Pré-Lançamento no WhatsApp</strong>.
           </p>
           <div className="cta-wrapper">
-            <a href="https://wa.me/55759921236604?text=Ol%C3%A1%21%20Gostaria%20de%20saber%20se%20ainda%20h%C3%A1%20vagas%20para%20a%20mentoria%20O%20Trono%20da%20Realizadora.%20Vim%20pela%20p%C3%A1gina%20de%20vendas." target="_blank" rel="noopener noreferrer" className="btn-primary btn-large">
+            <a href="https://wa.me/5575982821589?text=Ol%C3%A1%21%20Gostaria%20de%20saber%20se%20ainda%20h%C3%A1%20vagas%20para%20a%20mentoria%20O%20Trono%20da%20Realizadora.%20Vim%20pela%20p%C3%A1gina%20de%20vendas." target="_blank" rel="noopener noreferrer" className="btn-primary btn-large">
               Submeter Minha Aplicação
             </a>
             <p className="security-note">Grupo silenciado. Somente nossa equipe enviará os comunicados oficiais.</p>

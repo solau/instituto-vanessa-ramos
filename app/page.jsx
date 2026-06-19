@@ -11,7 +11,7 @@ export default function Home() {
             <p>
               Vanessa Ramos &mdash; Descubra como vencer o medo de se expor, curar a síndrome da impostora e construir autoridade sem se sentir uma fraude. Saia da invisibilidade e ocupe o seu lugar de direito.
             </p>
-            <a href="https://wa.me/55759921236604?text=Ol%C3%A1%21%20Gostaria%20de%20saber%20mais%20sobre%20as%20mentorias%20para%20despertar%20minha%20lideran%C3%A7a.%20Vim%20pelo%20bot%C3%A3o%20principal%20do%20site." target="_blank" rel="noopener noreferrer" className="btn-primary">
+            <a href="https://wa.me/5575982821589?text=Ol%C3%A1%21%20Gostaria%20de%20saber%20mais%20sobre%20as%20mentorias%20para%20despertar%20minha%20lideran%C3%A7a.%20Vim%20pelo%20bot%C3%A3o%20principal%20do%20site." target="_blank" rel="noopener noreferrer" className="btn-primary">
               Desperte sua Liderança
             </a>
           </div>
@@ -141,7 +141,7 @@ export default function Home() {
               <p>
                 Espaço dedicado a corporações visionárias que desejam levar a metodologia de Vanessa Ramos para desenvolver suas próprias líderes internamente, fomentando ambientes de alta performance e propósito.
               </p>
-              <a href="https://wa.me/55759921236604?text=Ol%C3%A1%21%20Gostaria%20de%20receber%20uma%20proposta%20para%20palestras%20e%20treinamentos%20corporativos.%20Cheguei%20atrav%C3%A9s%20do%20bot%C3%A3o%20'Solicitar%20Proposta'%20no%20site." target="_blank" rel="noopener noreferrer" className="btn-outline">Solicitar Proposta</a>
+              <a href="https://wa.me/5575982821589?text=Ol%C3%A1%21%20Gostaria%20de%20receber%20uma%20proposta%20para%20palestras%20e%20treinamentos%20corporativos.%20Cheguei%20atrav%C3%A9s%20do%20bot%C3%A3o%20'Solicitar%20Proposta'%20no%20site." target="_blank" rel="noopener noreferrer" className="btn-outline">Solicitar Proposta</a>
             </div>
 
           </div>
@@ -180,7 +180,7 @@ export default function Home() {
 
       {/* WhatsApp Floating Button */}
       <a 
-        href="https://wa.me/55759921236604" 
+        href="https://wa.me/5575982821589" 
         className="whatsapp-btn" 
         target="_blank" 
         rel="noopener noreferrer"
