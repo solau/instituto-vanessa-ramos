@@ -849,13 +849,18 @@ footer {
 
 
 /* Mobile Button Fixes */
-.btn-primary, .gold-button {
+.btn-primary, .gold-button, .btn-outline {
   white-space: nowrap;
 }
 
 @media (max-width: 768px) {
   .btn-primary, .gold-button {
     padding: 1rem 1.2rem !important;
+    font-size: 0.8rem !important;
+    letter-spacing: 1px !important;
+  }
+  .btn-outline {
+    padding: 0.8rem 1.2rem !important;
     font-size: 0.8rem !important;
     letter-spacing: 1px !important;
   }
